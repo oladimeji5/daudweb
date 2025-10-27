@@ -14,7 +14,7 @@ body {
 
 /* ===== Header ===== */
 header {
-  background: #001550;
+  background: #0255ad;
   color: white;
   display: flex;
   align-items: center;
@@ -36,7 +36,7 @@ header .logo {
 header .logo img {
   width: 100px;
   height: 100px;
-  border-radius: 100%;
+  border-radius: 70%;
 }
 
 header .brand {
@@ -323,7 +323,7 @@ main {
 
 /* ===== Footer ===== */
 footer {
-  background: #001550;
+  background: #0255ad;
   color: white;
   text-align: center;
   padding: 15px;
